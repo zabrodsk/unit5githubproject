@@ -29,18 +29,18 @@ namespace myTiles {
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 2 . . . . . . . . . . . . . . . 
 2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-. . . . . . . . . . . . . . . . 
+2 . . . . . . . . 2 2 . . . . 2 
+2 . . . . . . . . 2 2 . . . . 2 
+2 . . . . . . . . 2 2 . . . . 2 
+2 . . . . . . . . 2 2 . 2 2 . 2 
+2 . . . . . . . . 2 2 . 2 2 . 2 
+2 . . . . . . . . 2 2 . 2 2 . 2 
+2 2 2 2 2 2 2 2 . 2 2 . 2 2 . 2 
+2 . . . . . . 2 . 2 2 . 2 2 . 2 
+2 . . 2 2 . . 2 . 2 2 . 2 2 . 2 
+2 . . 2 . . . 2 . 2 2 . 2 2 . 2 
+2 . . 2 2 . . 2 . 2 2 . 2 2 . 2 
+. . . 2 2 . . . . 2 2 . 2 2 . . 
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 `, [myTiles.transparency16,sprites.dungeon.floorDark1,sprites.dungeon.floorDark0,sprites.dungeon.floorDark4,sprites.dungeon.stairLarge,sprites.dungeon.stairEast,sprites.dungeon.stairWest,sprites.dungeon.stairLadder,sprites.dungeon.purpleOuterEast0,sprites.dungeon.purpleOuterNorthWest,sprites.dungeon.purpleOuterNorth1,sprites.dungeon.purpleOuterSouthEast,sprites.dungeon.purpleOuterWest0,sprites.dungeon.purpleOuterNorthEast,sprites.dungeon.purpleOuterNorth2,sprites.dungeon.purpleOuterEast2,sprites.dungeon.purpleOuterWest1,sprites.dungeon.darkGroundCenter,sprites.dungeon.purpleOuterSouthWest], TileScale.Sixteen);
         }
